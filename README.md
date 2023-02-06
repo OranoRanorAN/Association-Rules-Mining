@@ -23,3 +23,6 @@ order_products_train.csv为交易表；product.csv为商品名和商品编号的
 <p float="left" align="left">
   <img src="/关联规则挖掘/可视化/graph.png" / width="500">
 </p>
+
+
+本次数据分析part1采用 **python**；part2采用 **R语言**
